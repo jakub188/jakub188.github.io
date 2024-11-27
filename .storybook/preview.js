@@ -7,6 +7,8 @@ const preview = {
         date: /Date$/i,
       },
     },
+    repositoryUrl: "https://github.com/jakub188/storybook-stackblitz",
+    branch: "master",
   },
 };
 
