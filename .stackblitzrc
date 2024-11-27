@@ -1,3 +1,0 @@
-{
-  "startCommand": "npm run storybook dev -p 6006"
-}
